@@ -1,0 +1,12 @@
+{
+    "books" : [
+        {
+            "id" : 1, 
+            "title" : "Jeelani welcome to json server"
+        },
+        {
+            "id" : 2, 
+            "title" : "Well its workng, welcome to json server"
+        } 
+    ]
+}
